@@ -38,12 +38,12 @@ categories: computer_basis_knowledge
        - 前面说了，一旦 VPN 装好，所有软件无需额外设置，都能够翻墙了。但是，这也引来新的问题。有些网友比较看重性能：希望能够不经过 VPN，直接访问国内的网站；只有国外的网站才走 VPN。这时候，前面提到的“路由表”就排上用场了。
         - 如果你没有 IT 技术背景，听到“路由表”这么高深的词汇，估计心里发虚。不过没关系，天朝不乏热心的网友，已经帮大伙儿做好了傻瓜化的工具。不需要对路由表有深入的理解，便可搞定。
             1. 首先，向大伙儿隆重介绍 chnroutes 开源项目（网站在“这里”）。该项目提供了预先定制好的路由表，能够做到国内网站自联，国外网站走VPN
-                2. 到该网站的“这里”，下载一个压缩包（名为 pre_created_for_win.zip）。只有8.5K，一眨眼就下载完。
-                    3. 把压缩包解开，里面有4个文件，咱们只需要俩（vpnup.bat 和 vpndown.bat）。
-                        4. 当你需要调整路由的时候，（以管理员身份）双击 vpnup.bat 
-                            5. 当你需要把路由表复原的时候，就（以管理员身份）双击 vpndown.bat
-                             - （运行上述俩脚本，大约需要几分钟，快慢与否取决于你电脑的性能）
-                              - 怎么样？是不是很简单？懂技术的网友，可以用 tracert 命令来验证路由表修改后的路由效果。
+            2. 到该网站的“这里”，下载一个压缩包（名为 pre_created_for_win.zip）。只有8.5K，一眨眼就下载完。
+            3. 把压缩包解开，里面有4个文件，咱们只需要俩（vpnup.bat 和 vpndown.bat）。
+            4. 当你需要调整路由的时候，（以管理员身份）双击 vpnup.bat
+            5. 当你需要把路由表复原的时候，就（以管理员身份）双击 vpndown.bat
+                - （运行上述俩脚本，大约需要几分钟，快慢与否取决于你电脑的性能）
+                - 怎么样？是不是很简单？懂技术的网友，可以用 tracert 命令来验证路由表修改后的路由效果。
 
 ### 如何使用proxy翻墙
 
@@ -53,15 +53,13 @@ categories: computer_basis_knowledge
 - 目前SOCKS5是最常用的一种SOCKS代理。
     - **下载shadowsocks客户端**
         - Windows：https://pan.baidu.com/s/1jHY3zWq
-            - Linux：   https://pan.baidu.com/s/1jHOuiN0
-                - Mac：https://github.com/shadowsocks/shadowsocks-iOS/releases/download/2.6.3/ShadowsocksX-2.6.3.dmg
-                    - **去买账号**
-                        - 个人推荐使用付费版本，当然只是为了尝鲜翻个墙玩一玩就算了，直接用免费的也可以，这个地址会定期发布一些账号，不保证稳定https://www.dou-bi.co/sszhfx/
-                            - 付费版直接去www.shadowsocks.com，这个跟shadowsocks客户端没有半毛钱关系，我只是之前用过，免费给人家打广告。
-                            - 具体配置自己搞
-                            - 也可以直接使用国人开发的lantern进行翻墙，稳定性以及流量都比较中肯，记住别浏览视频哦
-                                - Windows： https://pan.baidu.com/s/1o811B4Y
-                                    - Mac：     https://pan.baidu.com/s/1dFMIDmL
-                                        - Ubuntu：  https://pan.baidu.com/s/1pLCoRjH
-
-
+        - Linux：   https://pan.baidu.com/s/1jHOuiN0
+        - Mac：https://github.com/shadowsocks/shadowsocks-iOS/releases/download/2.6.3/ShadowsocksX-2.6.3.dmg
+    - **去买账号**
+        - 个人推荐使用付费版本，当然只是为了尝鲜翻个墙玩一玩就算了，直接用免费的也可以，这个地址会定期发布一些账号，不保证稳定https://www.dou-bi.co/sszhfx/
+        - 付费版直接去www.shadowsocks.com，这个跟shadowsocks客户端没有半毛钱关系，我只是之前用过，免费给人家打广告。
+        - 具体配置自己搞
+- 也可以直接使用国人开发的lantern进行翻墙，稳定性以及流量都比较中肯，记住别浏览视频哦
+    - Windows： https://pan.baidu.com/s/1o811B4Y
+    - Mac：     https://pan.baidu.com/s/1dFMIDmL
+    - Ubuntu：  https://pan.baidu.com/s/1pLCoRjH
