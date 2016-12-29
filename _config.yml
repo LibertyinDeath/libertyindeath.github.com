@@ -8,6 +8,7 @@
 # Site settings
 title: LibertyinDeath
 email: libertyindeath@hotmail.com
+github: https://github.com/LibertyinDeath
 description: > # this means to ignore newlines until "baseurl:"
   For the brave souls who get this far: 
   You are the chosen ones,the valiant knights of programming who toil away, without rest, fixing our most awful code. 
