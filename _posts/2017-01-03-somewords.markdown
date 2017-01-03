@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "一些有意思的原理或学术常识"
+title:  "一些原理或学术常识"
 date:   2017-01-03 12:48:38 +0800
 categories: Some-interesting-knowledge
 ---
