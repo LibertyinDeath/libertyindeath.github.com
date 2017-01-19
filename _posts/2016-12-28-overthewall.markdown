@@ -2,7 +2,7 @@
 layout: post
 title:  "翻墙那些事"
 date:   2016-12-28 12:22:38 +0800
-categories: computer_basis_knowledge
+categories: computer basis knowledge
 ---
 
 

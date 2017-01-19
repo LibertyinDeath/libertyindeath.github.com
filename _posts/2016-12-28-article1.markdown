@@ -2,7 +2,7 @@
 layout: post
 title:  "计算机是怎么“上网”的"
 date:   2016-12-28 12:22:38 +0800
-categories: computer_basis_knowledge
+categories: computer basis knowledge
 ---
 
 
