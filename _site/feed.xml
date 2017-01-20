@@ -6,12 +6,87 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Jan 2017 14:41:16 +0800</pubDate>
-    <lastBuildDate>Tue, 03 Jan 2017 14:41:16 +0800</lastBuildDate>
+    <pubDate>Fri, 20 Jan 2017 13:59:40 +0800</pubDate>
+    <lastBuildDate>Fri, 20 Jan 2017 13:59:40 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>一些有意思的原理或学术常识</title>
+        <title>什么是逻辑，以及如何培养逻辑思维</title>
+        <description>&lt;p&gt;各大招聘网站上对于应届生的要求里，一般都会有一条：“较强的逻辑思维能力”。然后笔试的时候，尤其是产品岗，会弄出一堆被很多人成为“脑筋急转弯”的题目，这些东西到底有没有用呢？&lt;/p&gt;
+&lt;p&gt;既然要考察逻辑思维，那首先什么是逻辑？维基百科给出的定义是：“逻辑（英语：logic），又称理则、论理、推理、推论，是有效推论的哲学研究。”这个定义很缥缈，我的理解是，通过使用一系列有效的，被人们认可的规则来阐述某种观点，这就是逻辑。其中最重要的一点在于，这些规则要被人认可。在进行产品设计的时候，产品经理说把这个按钮调大一点，ui问为什么？产品经理回答说，有很多用户反应这个按钮太小了，不好点击，我试了下的确是这样，所以觉得调大一点，这种因为现状下存在一个问题，进而给出解决方案，符合逻辑。如果产品经理说，我就是觉得大一点好看，我就喜欢大的，这就不是逻辑。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;我有逻辑思维吗&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;首先我要声明一点，每个人都有逻辑思维，只是不同人对逻辑的敏感程度不同而已。其次，逻辑与理性并不相同，跟冷静也不挂钩，只在于你是否符合规则。而这个规则，有些是经验得出的，有些是约定俗成的。&lt;/p&gt;
+&lt;p&gt;对于逻辑思维的培养，我们从小学就开始了。最简单的例子就是数学证明题。这是培养逻辑思维的一种行之有效的手段，因为你能够非常清晰的看出自己逻辑思维的进步与否。数学证明题，利用的规则绝大多数都是约定俗成的，如定理、公式等。还有一部分根据经验的规则，是你做题做的多了，知道了出题人的意图，但这与题目本身并无太大的关系。正由于数学证明题能够清晰的反映出你的逻辑思维，才加入了互联网公司的笔试题中&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如何培养逻辑思维&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在进行这个话题之前，我想先给大家出一个已经用烂了的小题目：&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;假设有一个池塘，里面有无穷多的水。现有2个空水壶，容积分别为5升和6升。问题是如何只用这2个水壶从池塘里取得3升的水。
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;不经过思考就看答案的是小狗&lt;/p&gt;
+&lt;p&gt;不经过思考就看答案的是小狗&lt;/p&gt;
+&lt;p&gt;不经过思考就看答案的是小狗&lt;/p&gt;
+&lt;p&gt;不经过思考就看答案的是小狗&lt;/p&gt;
+&lt;p&gt;不经过思考就看答案的是小狗&lt;/p&gt;
+&lt;p&gt;理一下思路，题目问的是，“如何从池塘里取三升的水”，也就是说，我需要在这两个水壶中的一个里面装三升的水，因为我没有其他的容器。继续推理，一个水壶里面有三升的水，有两种情况，一是倒进来三升的水，二是倒出去水后剩余三升的水。第一种情况，我可否确定倒进来三升的水呢？由于没有一个容量为3升的水壶，这个方法可以直接say no。那倒出去水之后剩余三升可否做到呢？5升倒出去2升，6升倒出去3升两种。&lt;/p&gt;
+&lt;p&gt;先将6升的装满水，倒入空的5升容器，还剩一升。倒掉5升的，把6升中的一升水倒进去，继续装满6升，倒进5升，由于5升水之前已经有一升水，所以只能倒4升水，6升的容器中还剩2升。倒掉5升的，把6升中的2升水倒进去。继续将6升装满，倒进5升，只能倒3升，于是6升的容器中只剩下3升水，over。&lt;/p&gt;
+&lt;p&gt;这道题目，一个是基本的数学知识（如6-3=3），这是约定俗成的。如何想到这一做法呢？这就要靠运气以及经验了。看到一个6升一个5升，自然的就想到如果将6升水倒进5升容器中，就只剩1升了。也就是我们这么一倒，就构造出了一个可以装一升水的容器，那继续利用这个容器来进行一些操作，就水到渠成了。&lt;/p&gt;
+&lt;p&gt;这是从约定俗称的规矩出发阐述逻辑，多做一些这类的题目，能够显著提升自己的逻辑思维。但是在实际工作需要的，更多的是根据经验来做判断的思维方式&lt;/p&gt;
+&lt;p&gt;因此我们需要能够增强自己的逻辑思维，以帮助我们解决工作中的问题，学会抓住关键信息，能够清晰表达，做出准确判断。这才是逻辑思维真正有用处的地方，上面的题目只不过是hr在招聘时，为了甄别人才所做的一个简单的测试。&lt;/p&gt;
+&lt;p&gt;提高日常生活中的逻辑思维，必须长期不断的培养阅读、思考、写作的习惯。但是见效时间较长且不像逻辑题那样可以量化，唯一的方法就是坚持，习惯不是一日养成的，冰冻非三日之寒。&lt;/p&gt;
+&lt;p&gt;上面我提到的三种习惯：阅读、思考、写作。这三个其实是相辅相成的，阅读时需要思考，甚至需要记笔记。&lt;/p&gt;
+&lt;p&gt;因此我们就可以把培养逻辑思维简化为如何通过阅读提高逻辑思维。&lt;/p&gt;
+&lt;p&gt;这里我推荐几本特别喜欢的书籍，《所罗门的伪证》、《白夜行》、《一桩事先张扬的凶杀案》以及《达芬奇的密码》。这几本书都是非常有意思的推理类书籍。理想的做法是，第一遍先大略的读一遍，第二次阅读时，需要细心阅读并且加上&lt;/p&gt;
+&lt;p&gt;!(logicpic1.png)&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Jan 2017 15:58:00 +0800</pubDate>
+        <link>http://yourdomain.com/some/interesting/knowledge/2017/01/19/logic.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/some/interesting/knowledge/2017/01/19/logic.html</guid>
+        
+        
+        <category>Some</category>
+        
+        <category>interesting</category>
+        
+        <category>knowledge</category>
+        
+      </item>
+    
+      <item>
+        <title>什么是2c、什么是2b</title>
+        <description>&lt;h2 id=&quot;b2c&quot;&gt;2b与2c分别是什么&lt;/h2&gt;
+
+&lt;p&gt;首先说一下，这里的2b与2c，不是二的意思，而是to，念兔。2b是to business，2c是to consumer。&lt;/p&gt;
+&lt;p&gt;近年来2b与2c的讨论甚嚣尘上，很多人根本不清楚2b与2c究竟是什么，就开始与人高谈阔论2b的产品如何如何，2c的产品如何能赚钱。&lt;/p&gt;
+&lt;p&gt;前些天在一个产品群里说了一句，“2b的产品设计成这个画风，也是很奇怪的”。很快一个实习生找到我，“2b是什么意思？”这让我萌生了写一篇文章专门解释2b与2c的念头&lt;/p&gt;
+&lt;p&gt;上文有提到，2b就是to business。字面上来看,2b就是面向公司，你的产品是给公司做的，就是2b。2c就是面向消费者，你的产品是给劳苦大众做的，就是2c。&lt;/p&gt;
+&lt;p&gt;举个例子，给贸易企业做一个CRM（Customer relationship management，客户关系管理系统）、给淘宝商家做的后台，都是2b的产品。我们日常使用的微信、淘宝、贴吧，就是面向我们这些普通的消费者，这些产品是2c的。那我们现在对2b的产品有一个大概的印象了，现在来详细叙述&lt;/p&gt;
+&lt;p&gt;2b，按照business来理解，是给企业商用的，上文的贸易企业是一个企业，淘宝商家，也可以算作一个企业。但是这个产品的使用者，依然是企业中具体的某个人，因此，2b的产品要同时面对企业代表（要不要买、要不要用的决策）和终端用户两种角色，当然，这两种角色可能重叠，比如淘宝商家。&lt;/p&gt;
+&lt;p&gt;2c，按照consumer来理解，是给个人的，微信、淘宝等产品，不是为了某些人的工作需要来设计的。这些产品是直接服务于个人，我使用这个产品，是为了满足人性中各种各样的欲望。比如我想摆脱孤独，想能时刻跟人保持联系，所以我使用微信；我喜欢看美女，享受与美女间亲密互动，所以我用YY；我喜欢刷微信、玩手机，可是手机越用越慢，很不爽，所以我用猎豹清理大师。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;简单的说，2b产品的背后是业务，2c产品的背后是人性&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;之前跟同学一个吹牛的时候，一个词让我觉得非常有逼格，“痛点”，现在做了产品之后，越发觉得这个词重要。&lt;/p&gt;
+&lt;p&gt;但是这个痛点，是面向2c来讲的，“痛”是一种主观的感觉，通过理性的逻辑推导出来的“痛”未必真的痛。2C产品经理需要有很强的同理心，能够快速、准确地将自己代入到用户场景，想用户所想，感用户所感，自己能够感觉到切身的痛，才有可能找到真正的痛点。比如微信摇一摇，将强烈的荷尔蒙释放的欲望代入到产品设计中，才可能有摇一摇的手势、来福枪栓的音效、大门开闭漏出小红花的动画等各种微妙的情感化设计。&lt;/p&gt;
+&lt;p&gt;但是微信摇一摇这个功能，放到2b类产品里面，就不合适了。在2B产品的设计过程中，最重要的是分析业务流程、各种业务间依赖关系、穷尽业务场景等，抽象影响因素、梳理逻辑流程、推导因果关系，都是理性思维的主场。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2c产品基本没有学习成本，而2b却可以有&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;设计界有一本非常出名的书，《dont make me think》，这是一本关于用户体验的书。非常的浅显易懂，且在实战中有较大的用处，我在实习的时候有好几个case都参考了这本书。这本书的中心思想在于，“不要让你的用户思考”。简单的说，2c产品的每一个功能，都必须是易于理解的，尽量做到不让用户进行尝试，也就是点击某个按钮会触发什么操作用户必须有心理预期，即使没有，也应该是符合逻辑的。&lt;/p&gt;
+&lt;p&gt;但在2b产品中，并不需要做到dont make users think。2C产品的Q&amp;amp;A就算再精美也没人看，但在2B产品中培训手册却是必要的输出物，还要尽可能的详细。而且可能还要安排专门的培训课程，对业务人员进行系统的培训。这里的原因比较多，比如采购者与使用者不是同一个人，而前者可能并不关心使用体验，比如业务本身的复杂性和业务系统设计不当并不容易区分，比如业务系统的供给常是垄断性的，等等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;总结&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不管是2b还是2c，做产品都要把逻辑理清楚。也进行了半年的实战，这段时间给我的感触就是，做2b端，最重要的是逻辑（需求他们是自己说出来）。做2c端，最重要的是需求（没人告诉你市场要的是什么，用户反馈也不代表所有人）。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Jan 2017 17:39:38 +0800</pubDate>
+        <link>http://yourdomain.com/the/internet/product/2017/01/03/2b2c.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/the/internet/product/2017/01/03/2b2c.html</guid>
+        
+        
+        <category>The</category>
+        
+        <category>internet</category>
+        
+        <category>product</category>
+        
+      </item>
+    
+      <item>
+        <title>一些原理或学术常识</title>
         <description>&lt;h3 id=&quot;section&quot;&gt;奥卡姆剃刀原理&lt;/h3&gt;
 
 &lt;h4 id=&quot;section-1&quot;&gt;含义&lt;/h4&gt;
@@ -39,31 +114,49 @@
 
 &lt;h4 id=&quot;section-7&quot;&gt;含义&lt;/h4&gt;
 
-&lt;p&gt;又名狄利克雷抽屉原理、鸽笼原理。
-其中一种简单的表述法为：
-若有n个笼子和n+1只鸽子，所有的鸽子都被关在鸽笼里，那么至少有一个笼子有至少2只鸽子。
-另一种为：
-若有n个笼子和kn+1只鸽子，所有的鸽子都被关在鸽笼里，那么至少有一个笼子有至少k+1只鸽子。&lt;/p&gt;
+&lt;p&gt;鸽巢原理又名狄利克雷抽屉原理、鸽笼原理。&lt;/p&gt;
+&lt;p&gt;其中一种简单的表述法为：&lt;/p&gt;
+&lt;p&gt;若有n个笼子和n+1只鸽子，所有的鸽子都被关在鸽笼里，那么至少有一个笼子有至少2只鸽子。&lt;/p&gt;
+&lt;p&gt;另一种为：&lt;/p&gt;
+&lt;p&gt;若有n个笼子和kn+1只鸽子，所有的鸽子都被关在鸽笼里，那么至少有一个笼子有至少k+1只鸽子。&lt;/p&gt;
 
 &lt;h3 id=&quot;section-8&quot;&gt;人择原理&lt;/h3&gt;
 
 &lt;h4 id=&quot;section-9&quot;&gt;含义&lt;/h4&gt;
 
-&lt;p&gt;人择原理（Anthropic principle）是一种认为物质宇宙必须与观测它的智能生命相匹配的理论。
-如果万物与自然定律存在，那么万物与自然定律定会被人类发现。如果万物与自然定律不是人类所看到的形态出现的话，人类就不会知道这些定律是怎样出现的。只有在少数像我们这样的一些宇宙中，智慧及生命才得以发展并能质疑：“为何宇宙是我们看到的这种样子？”回答很简单：“如果它不是这个样子，我们就不会在这里。”&lt;/p&gt;
+&lt;p&gt;人择原理（Anthropic principle）是一种认为物质宇宙必须与观测它的智能生命相匹配的理论。&lt;/p&gt;
+&lt;p&gt;如果万物与自然定律存在，那么万物与自然定律定会被人类发现。如果万物与自然定律不是人类所看到的形态出现的话，人类就不会知道这些定律是怎样出现的。只有在少数像我们这样的一些宇宙中，智慧及生命才得以发展并能质疑：“为何宇宙是我们看到的这种样子？”回答很简单：“如果它不是这个样子，我们就不会在这里。”&lt;/p&gt;
 
 &lt;h4 id=&quot;section-10&quot;&gt;由来&lt;/h4&gt;
 
 &lt;p&gt;在1973年的纪念哥白尼诞辰500周年的“宇宙理论观测数据”会议上，天体物理学家布兰登·卡特首次提出了这个理论。他的论文中明确阐述的人择原理，站在了哥白尼原理的反面。哥白尼原理否认了人类在宇宙中的特殊地位，正如同哥白尼所主张，地球并不是宇宙的中心，而太阳也只是一颗位于典型银河系的典型恒星。卡特的论文《大数重合与宇宙论中的人择原理》包含了下列陈述：“虽然我们所处的位置不一定是‘中心’，但不可避免地，在某种程度上处于特殊的地位。”&lt;/p&gt;
 
+&lt;h3 id=&quot;section-11&quot;&gt;长尾理论&lt;/h3&gt;
+
+&lt;h4 id=&quot;section-12&quot;&gt;概念&lt;/h4&gt;
+
+&lt;p&gt;简单的说，所谓长尾理论是指，只要产品的存储和流通的渠道足够大，需求不旺或销量不佳的产品所共同占据的市场份额可以和那些少数热销产品所占据的市场份额相匹敌甚至更大，即众多小市场汇聚成可产生与主流相匹敌的市场能量。也就是说，企业的销售量不在于传统需求曲线上那个代表“畅销商品”的头部，而是那条代表“冷门商品”经常为人遗忘的长尾。举例来说，一家大型书店通常可摆放10万本书，但亚马逊网络书店的图书销售额中，有四分之一来自排名10万以后的书籍。这些“冷门”书籍的销售比例正以高速成长，预估未来可占整个书市的一半。这意味着消费者在面对无限的选择时，真正想要的东西、和想要取得的渠道都出现了重大的变化，一套崭新的商业模式也跟着崛起。简而言之，长尾所涉及的冷门产品涵盖了几乎更多人的需求，当有了需求后，会有更多的人意识到这种需求，从而使冷门不再冷门。&lt;/p&gt;
+
+&lt;h4 id=&quot;section-13&quot;&gt;由来&lt;/h4&gt;
+&lt;p&gt;克里斯·安德森，美国《连线》杂志主编，喜欢从数字中发现趋势。一次跟eCast首席执行官范·阿迪布的会面，后者提出一个让安德森耳目一新的“98法则”，改变了他的研究方向。范·阿迪布从数字音乐点唱数字统计中发现了一个秘密：听众对98%的非热门音乐有着无限的需求，非热门的音乐集合市场无比巨大，无边无际。听众几乎盯着所有的东西！他把这称为“98法则”。&lt;/p&gt;
+&lt;p&gt;安德森意识到阿迪布那个有悖常识的“98法则”，隐含着一个强大的真理。于是，他系统研究了亚马逊、狂想曲公司、Blog、Google、eBay、Netflix等互联网零售商的销售数据，并与沃尔玛等传统零售商的销售数据进行了对比，观察到一种符合统计规律（大数定律）的现象。这种现象恰如以数量、品种二维坐标上的一条需求曲线，拖着长长的尾巴，向代表“品种”的横轴尽头延伸，长尾由此得名。&lt;/p&gt;
+&lt;p&gt;《长尾》（long tail）在2004年10月号《连线》发表后，迅速成了这家杂志历史上被引用最多的一篇文章。特别是经过吸纳无边界智慧的博客平台，不断丰富着新的素材和案例。安德森沉浸其中不能自拔，终于打造出一本影响商业世界的畅销书《长尾理论》。&lt;/p&gt;
+&lt;p&gt;克里斯·安德森，美国《连线》杂志主编，喜欢从数字中发现趋势。一次跟eCast首席执行官范·阿迪布的会面，后者提出一个让安德森耳目一新的“98法则”，改变了他的研究方向。范·阿迪布从数字音乐点唱数字统计中发现了一个秘密：听众对98%的非热门音乐有着无限的需求，非热门的音乐集合市场无比巨大，无边无际。听众几乎盯着所有的东西！他把这称为“98法则”。&lt;/p&gt;
+&lt;p&gt;安德森意识到阿迪布那个有悖常识的“98法则”，隐含着一个强大的真理。于是，他系统研究了亚马逊、狂想曲公司、Blog、Google、eBay、Netflix等互联网零售商的销售数据，并与沃尔玛等传统零售商的销售数据进行了对比，观察到一种符合统计规律（大数定律）的现象。这种现象恰如以数量、品种二维坐标上的一条需求曲线，拖着长长的尾巴，向代表“品种”的横轴尽头延伸，长尾由此得名。&lt;/p&gt;
+&lt;p&gt;《长尾》（long tail）在2004年10月号《连线》发表后，迅速成了这家杂志历史上被引用最多的一篇文章。特别是经过吸纳无边界智慧的博客平台，不断丰富着新的素材和案例。安德森沉浸其中不能自拔，终于打造出一本影响商业世界的畅销书《长尾理论》。&lt;/p&gt;
+
 &lt;p&gt;###&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Jan 2017 12:48:38 +0800</pubDate>
-        <link>http://yourdomain.com/some-interesting-knowledge/2017/01/03/somewords.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/some-interesting-knowledge/2017/01/03/somewords.html</guid>
+        <link>http://yourdomain.com/some/interesting/knowledge/2017/01/03/somewords.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/some/interesting/knowledge/2017/01/03/somewords.html</guid>
         
         
-        <category>Some-interesting-knowledge</category>
+        <category>Some</category>
+        
+        <category>interesting</category>
+        
+        <category>knowledge</category>
         
       </item>
     
@@ -176,11 +269,15 @@
 
 </description>
         <pubDate>Fri, 30 Dec 2016 13:11:38 +0800</pubDate>
-        <link>http://yourdomain.com/the_internet/2016/12/30/bitcoin.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/the_internet/2016/12/30/bitcoin.html</guid>
+        <link>http://yourdomain.com/the/internet/industry/2016/12/30/bitcoin.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/the/internet/industry/2016/12/30/bitcoin.html</guid>
         
         
-        <category>The_internet</category>
+        <category>The</category>
+        
+        <category>internet</category>
+        
+        <category>industry</category>
         
       </item>
     
@@ -279,11 +376,15 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 28 Dec 2016 12:22:38 +0800</pubDate>
-        <link>http://yourdomain.com/computer_basis_knowledge/2016/12/28/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/computer_basis_knowledge/2016/12/28/welcome-to-jekyll.html</guid>
+        <link>http://yourdomain.com/computer/basis/knowledge/2016/12/28/overthewall.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/computer/basis/knowledge/2016/12/28/overthewall.html</guid>
         
         
-        <category>computer_basis_knowledge</category>
+        <category>computer</category>
+        
+        <category>basis</category>
+        
+        <category>knowledge</category>
         
       </item>
     
@@ -543,11 +644,15 @@ Host: birk105.studby.uio.no:81
 
 </description>
         <pubDate>Wed, 28 Dec 2016 12:22:38 +0800</pubDate>
-        <link>http://yourdomain.com/computer_basis_knowledge/2016/12/28/article1.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/computer_basis_knowledge/2016/12/28/article1.html</guid>
+        <link>http://yourdomain.com/computer/basis/knowledge/2016/12/28/article1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/computer/basis/knowledge/2016/12/28/article1.html</guid>
         
         
-        <category>computer_basis_knowledge</category>
+        <category>computer</category>
+        
+        <category>basis</category>
+        
+        <category>knowledge</category>
         
       </item>
     
