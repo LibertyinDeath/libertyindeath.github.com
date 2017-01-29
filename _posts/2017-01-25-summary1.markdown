@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "半年产品助理的工作总结"
-date:   2017:01:25 12:22:38 +0800
+date:   2017-01-25 12:22:38 +0800
 categories: The internet product
 ---
 <p>大三暑假里，开始了我的第一次实习，在麦萌漫画，一家做漫画app的公司</p>
