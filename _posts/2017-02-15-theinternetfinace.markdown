@@ -2,7 +2,7 @@
 layout: post
 title:  "风吹江南——笔记"
 date:   2017-02-15 12:12:38 +0800
-categories: The internet industry
+category: The internet industry
 ---
 简介：风吹江南是陈宇（网名江南愤青）之前在网上写的一系列金融类文章汇集而成。
 

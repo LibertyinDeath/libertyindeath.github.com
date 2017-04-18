@@ -2,7 +2,7 @@
 layout: post
 title:  "比特币到底是什么"
 date:   2016-12-30 13:11:38 +0800
-categories: The internet industry
+category: The internet industry
 ---
 
 
@@ -108,4 +108,3 @@ SHA256(SHA256(version+prev_hash+merkle_root+ntime+nbits+x))<TARGET
 #### 比特币的总量有限不会有局限性吗？以后发展怎么办
 
 <p>Bitcoin 的独特之处在于只有总量为2100万的比特币会被生成。但是这根本不会成为一种局限，因为交易中可以将比特币划分成更小的次级单位，比如 bit - 一比特币等于 1,000,000 bit。一个比特币可以拆分到小数点后8位 （0.000 000 01），如果将来平均单笔交易规模减小到一定程度时，甚至可以拆分到更小的单位。</p>
-

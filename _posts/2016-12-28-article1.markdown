@@ -2,11 +2,11 @@
 layout: post
 title:  "计算机是怎么“上网”的"
 date:   2016-12-28 12:22:38 +0800
-categories: computer basis knowledge
+category: computer basis knowledge
 ---
 
 
- 
+
 
 
 
@@ -224,5 +224,3 @@ Host: birk105.studby.uio.no:81
 <p>基于服务器API编程的主要优点在于，当请求到达时，程序和需要的数据已经在内存中，这样确实会快很多。</p>
 <p>有些服务器允许不会导致崩溃的脚本语言。一个例子是AOLserver的，它采用TCL。也有可用的服务器，比如Apache，它让你可以使用Perl或Python进行服务器的API编程，有效地消除了因编程错误引起服务器崩溃的风险。</p>
 <p>也有很多很多专利的（和非专有）脚本语言和技术，以及各种web服务器。一些最有名的是ASP，MetaHTML和PHP3。</p>
-
-

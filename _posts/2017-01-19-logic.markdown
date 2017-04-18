@@ -2,7 +2,7 @@
 layout: post
 title:  "什么是逻辑，以及如何培养逻辑思维"
 date:   2017-01-19 15:58:00 +0800
-categories: Some interesting knowledge
+category: Some interesting knowledge
 ---
 
 <p>各大招聘网站上对于应届生的要求里，一般都会有一条：“较强的逻辑思维能力”。然后笔试的时候，尤其是产品岗，会弄出一堆被很多人成为“脑筋急转弯”的题目，这些东西到底有没有用呢？</p>
