@@ -21,12 +21,13 @@ category: The internet product
 ### 刘飞
 
 ```flow
+
 op1=>operation: 产品价值&用户痛点
 op2=>operation: 需求分析&功能设计
 op3=>operation: 产品管理
 op4=>operation: 技巧与方法
-
 op1->op2->op3->op4
+
 ```
 
 ### 大城小胖
@@ -40,11 +41,13 @@ op1->op2->op3->op4
 ### 朱宝（即本人）
 
 ```flow
+
 op1=>operation: 功能逻辑
 op2=>operation: 用户体验
 op3=>operation: 商业模式
 
 op1->op2->op3
+
 ```
 
 ## 产品经理成长路线

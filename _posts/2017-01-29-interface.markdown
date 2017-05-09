@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "开发们一直说的借口到底是什么？"
+title:  "开发们一直说的接口到底是什么？"
 date:  2017-01-29 12:20:38 +0800
 category: The internet product
 ---
