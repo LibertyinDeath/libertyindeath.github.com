@@ -16,7 +16,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 safe: false
 # Build settings
+highlighter: rouge
+
 markdown: kramdown
+
 kramdown:
-       input: GFM
-       hard_wrap: true
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
